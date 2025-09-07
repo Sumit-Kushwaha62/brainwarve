@@ -7,7 +7,7 @@
 </div>
   
 
-## <a name="features">🔋 Features</a>
+## <a name="features">Features</a>
 
 👉 **Beautiful Sections**: Includes hero, services, features, how to use, roadmap, pricing, footer, and header.
 
@@ -23,7 +23,7 @@
 
 and many more, including code architecture and reusability
 
-## <a name="quick-start">🤸 Quick Start</a>
+## <a name="quick-start"> Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
 
@@ -31,9 +31,12 @@ Follow these steps to set up the project locally on your machine.
 
 Make sure you have the following installed on your machine:
 
-- [Git](https://github.com/Sumit-Kushwaha62/brainwarve.git)
+- [Git](https://git-scm.com/downloads)
 - [Node.js](https://nodejs.org/en)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
+
+<br>
+<hr>
 
 **Cloning the Repository**
 
